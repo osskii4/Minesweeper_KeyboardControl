@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper_KeyboardControl", "Minesweeper_KeyboardControl\Minesweeper_KeyboardControl.csproj", "{C11CCE6F-8516-4519-BC29-904CA90BB083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C11CCE6F-8516-4519-BC29-904CA90BB083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11CCE6F-8516-4519-BC29-904CA90BB083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11CCE6F-8516-4519-BC29-904CA90BB083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11CCE6F-8516-4519-BC29-904CA90BB083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8673A3D8-EB44-4F3D-9813-6C14FDD63E74}
+	EndGlobalSection
+EndGlobal
